@@ -29,7 +29,7 @@ const tabs: AppTab[] = [
       "Seamless contactless checking and automated payment exit",
       "QR key pass integration directly in mobile wallet"
     ],
-    imageSrc: "/user-app.png",
+    imageSrc: "/parklanes-landingpage/user-app.png",
     imageAlt: "User Commuter App screenshot",
   },
   {
@@ -44,7 +44,7 @@ const tabs: AppTab[] = [
       "Interactive spot allocation override tools",
       "Instant lane block/unblock toggles for maintenance"
     ],
-    imageSrc: "/operator-app.png",
+    imageSrc: "/parklanes-landingpage/operator-app.png",
     imageAlt: "Operator Lane App screenshot",
   },
   {
@@ -59,7 +59,7 @@ const tabs: AppTab[] = [
       "Multi-facility configuration and manager role provisioning",
       "Automated reports on peak parking and lane clogging rates"
     ],
-    imageSrc: "/dashboard.png",
+    imageSrc: "/parklanes-landingpage/dashboard.png",
     imageAlt: "Admin Analytics Dashboard screenshot",
   },
 ];
